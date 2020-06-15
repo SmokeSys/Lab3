@@ -1,0 +1,7 @@
+C:\Users\German\source\repos\lab3Hash\lab3Hash\bin\Debug\lab3Hash.exe.config
+C:\Users\German\source\repos\lab3Hash\lab3Hash\bin\Debug\lab3Hash.exe
+C:\Users\German\source\repos\lab3Hash\lab3Hash\bin\Debug\lab3Hash.pdb
+C:\Users\German\source\repos\lab3Hash\lab3Hash\obj\Debug\lab3Hash.csprojAssemblyReference.cache
+C:\Users\German\source\repos\lab3Hash\lab3Hash\obj\Debug\lab3Hash.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\lab3Hash\lab3Hash\obj\Debug\lab3Hash.exe
+C:\Users\German\source\repos\lab3Hash\lab3Hash\obj\Debug\lab3Hash.pdb
